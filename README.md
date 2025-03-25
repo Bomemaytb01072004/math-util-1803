@@ -10,7 +10,7 @@
 * ...
 
 ## Screen-shots
-![JUnit with TDD DDT]([https://github.com/Bomemaytb01072004/math-ultil-1803/blob/main/screenshots/JUnit%20with%20DDT.png](https://github.com/Bomemaytb01072004/math-util-1803/blob/main/screenshots/JUnit%20with%20DDT.png))
+![JUnit with TDD DDT](https://github.com/Bomemaytb01072004/math-util-1803/blob/main/screenshots/JUnit%20with%20DDT.png)
 
 ### Connect me via hoangvutran088@gmail.com
 #### &#169; 2025 
